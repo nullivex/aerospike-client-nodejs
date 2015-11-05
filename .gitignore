@@ -6,3 +6,4 @@ npm-debug.log
 test.log
 
 valgrind/
+.idea

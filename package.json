@@ -14,9 +14,13 @@
   },
   "os": [
     "linux",
-    "darwin"
+    "darwin",
+    "win32",
+    "win64"
   ],
   "cpu": [
+    "ia32",
+    "ia64",
     "x64"
   ],
   "repository": {
